@@ -13,7 +13,7 @@ def isprime(n):
        
 count = i = sum = 0
 while count < 100:
-    if isprime(i) == True:
+    if isprime(i):
         sum += i
         count += 1
     i += 1
