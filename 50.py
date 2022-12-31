@@ -9,4 +9,4 @@ def getrandomnumbers(n):
             ListOfNumbers.append(randint(1,n))
     return ListOfNumbers
 
-print(getrandomnumbers(6))
+print(getrandomnumbers(10))
