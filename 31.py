@@ -1,13 +1,5 @@
-"""
-def countwords(string):
-    count=0
-    for i in string:
-        count+=1
-    return f"{count} words"
-"""
-        
-def countwords(string):
-    return f"{len(string)} words"
+def countwords(string: str):
+    return f"{len(string.split(' '))} words"
     
-print(countwords("Faith"))
+print(countwords("Faith Youm"))
     
