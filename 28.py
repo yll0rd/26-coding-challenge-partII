@@ -1,6 +1,3 @@
-from re import I
-
-
 def isprime(n):
     if n <= 1:
         return False
