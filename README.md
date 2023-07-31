@@ -1,6 +1,9 @@
 # 26-coding-challenge-PartII
+## (Contintuation of [PartI](https://github.com/Leo-Youmbi/26-coding-challenge-partI))
 ![image](https://user-images.githubusercontent.com/114886588/210148838-93634a28-31e7-4a33-a3ec-88649c94fb92.png)
 
+
+## Tasks 
 [27](./27.py): Create a fxn that will receive an array of numbers as argument and will return a new array with distinct elements.  
 [28](./28.py): Calculate the sum of the first 100 prime numbers and return them in array.  
 [29](./29.py): Print the distance between the first 100 prime numbers.  
